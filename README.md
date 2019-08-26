@@ -1,6 +1,6 @@
 # medi_spider
 
-## Quick Preview [not recommended]
+## Quick Preview
   Open https://github.com/ilovejs/medi_spider/blob/master/spider.ipynb for details.
 
 
